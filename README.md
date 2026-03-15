@@ -23,7 +23,7 @@ json{
     }
   }
 }
-Then copy SKILL.md into your project's .cursor/ or .claude/ directory. Your AI agent will automatically use it.
+Then copy the skills/strale/ folder into your project's .cursor/skills/, .claude/skills/, or .github/skills/ directory. Your AI agent will automatically use it.
 For framework users
 
 LangChain: pip install langchain-strale
