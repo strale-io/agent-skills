@@ -44,7 +44,7 @@ iban-validate — Validate IBAN numbers
 Try them now — no API key needed.
 Links
 
-Capabilities catalog — Browse 233+ capabilities
+Capabilities catalog — Browse 225+ capabilities
 Quality methodology — How SQS scores work
 API docs — Full API reference
 Sign up — Free €2 credits, no card needed
