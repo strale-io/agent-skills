@@ -62,4 +62,21 @@ The plugin connects Claude Code to Strale's MCP server and includes a
 skill that teaches Claude when and how to use Strale's 225+ data
 capabilities. Free tier capabilities work without an API key.
 
+## OpenClaw / ClawHub
+
+Strale is available as a skill for [OpenClaw](https://openclaw.ai),
+[NanoClaw](https://github.com/gavrielcohen/nanoclaw), and other
+ClawHub-compatible personal AI assistants.
+
+Install via ClawHub:
+```
+clawhub install strale
+```
+
+Or copy `skills/strale-openclaw/SKILL.md` to your OpenClaw skills directory.
+
+The skill connects to Strale's MCP server and teaches your agent when to
+use Strale's 225+ data capabilities. Free tier capabilities work without
+an API key.
+
 Strale is the trust layer for AI agents.
