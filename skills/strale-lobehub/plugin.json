@@ -1,0 +1,31 @@
+{
+  "name": "strale",
+  "displayName": "Strale — Verified Data for AI Agents",
+  "description": "225+ independently tested data capabilities: company registries (27 countries), IBAN/VAT/email validation, GDPR compliance, sanctions screening, EU AI Act classification, and more. Every capability has a published quality score. Free tier available — no signup needed for basic validation.",
+  "author": "Strale",
+  "homepage": "https://strale.dev",
+  "version": "1.0.0",
+  "type": "mcp",
+  "server": {
+    "url": "https://api.strale.io/mcp",
+    "transport": "streamableHttp"
+  },
+  "tags": [
+    "data",
+    "compliance",
+    "validation",
+    "business",
+    "eu",
+    "trust",
+    "company-data",
+    "gdpr",
+    "sanctions",
+    "finance"
+  ],
+  "meta": {
+    "capabilities": "225+",
+    "countries": "27",
+    "pricing": "Free tier + pay-per-call",
+    "authentication": "Optional API key (free capabilities work without auth)"
+  }
+}

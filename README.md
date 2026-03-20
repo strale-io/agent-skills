@@ -79,4 +79,14 @@ The skill connects to Strale's MCP server and teaches your agent when to
 use Strale's 225+ data capabilities. Free tier capabilities work without
 an API key.
 
+## LobeHub
+
+Strale is available as an MCP plugin in the
+[LobeHub marketplace](https://lobehub.com/mcp). Search for "strale"
+in the MCP directory, or connect directly:
+
+- Server URL: `https://api.strale.io/mcp`
+- Transport: Streamable HTTP
+- Auth: Optional Bearer token for paid capabilities
+
 Strale is the trust layer for AI agents.
