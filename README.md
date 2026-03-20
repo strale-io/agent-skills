@@ -49,4 +49,17 @@ Quality methodology — How SQS scores work
 API docs — Full API reference
 Sign up — Free €2 credits, no card needed
 
+## Claude Code Plugin
+
+Install the Strale plugin in Claude Code:
+
+```
+/plugin marketplace add strale-io/agent-skills
+/plugin install strale@strale-agent-skills
+```
+
+The plugin connects Claude Code to Strale's MCP server and includes a
+skill that teaches Claude when and how to use Strale's 225+ data
+capabilities. Free tier capabilities work without an API key.
+
 Strale is the trust layer for AI agents.

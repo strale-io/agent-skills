@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "strale": {
+      "type": "streamableHttp",
+      "url": "https://api.strale.io/mcp",
+      "headers": {}
+    }
+  }
+}

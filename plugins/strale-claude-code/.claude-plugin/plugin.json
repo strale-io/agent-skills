@@ -1,0 +1,11 @@
+{
+  "name": "strale",
+  "version": "1.0.0",
+  "description": "Verified data capabilities for your codebase — company data (27 countries), IBAN/VAT/email validation, GDPR compliance, sanctions screening. Every capability independently tested and quality-scored. Free tier available.",
+  "author": {
+    "name": "Strale",
+    "url": "https://strale.dev"
+  },
+  "homepage": "https://github.com/strale-io/agent-skills",
+  "repository": "https://github.com/strale-io/agent-skills"
+}

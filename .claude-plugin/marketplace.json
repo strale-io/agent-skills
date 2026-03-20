@@ -1,0 +1,10 @@
+{
+  "name": "strale-agent-skills",
+  "description": "Skills and plugins for Strale — the trust layer for AI agents",
+  "plugins": {
+    "strale": {
+      "source": "./plugins/strale-claude-code",
+      "description": "225+ verified data capabilities via MCP — company data, compliance, validation. Free tier available."
+    }
+  }
+}
